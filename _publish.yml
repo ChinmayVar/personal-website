@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 0457983a-7529-4825-aa15-c8c5975f98e1
+      url: 'https://chinmayvar-stats140xp-site.netlify.app/'

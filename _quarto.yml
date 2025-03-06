@@ -1,8 +1,10 @@
 project:
   type: website
+  resources:
+    - stats140cv.pdf
 
 website:
-  title: "Chinmay's Webiste"
+  title: "Chinmay's Website"
   navbar:
     left:
       - href: index.qmd

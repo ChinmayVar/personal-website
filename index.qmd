@@ -11,6 +11,7 @@ about:
       url: "https://www.linkedin.com/in/vchinmay/"
     - text: CV
       url: "stats140cv.pdf"
+      
 toc: false
 ---
 

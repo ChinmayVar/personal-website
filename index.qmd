@@ -1,11 +1,17 @@
 ---
-title: "personal-website"
+title: "Chinmay Varshneya"
+about:
+  template: jolla
+  image: stats140pfp.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ChinmayVar
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/vchinmay/"
+    - text: CV
+      url: "stats140cv.pdf"
+toc: false
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 2
-```
+I am a fourth year undergraduate student at UCLA double majoring in Applied Mathematics and Statistics & Data Science

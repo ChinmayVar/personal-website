@@ -2,7 +2,7 @@ project:
   type: website
   resources:
     - stats140cv.pdf
-    - stats101cpdf.df
+    - stats101cpdf.pdf
     - ro53pdf.pdf
     - math150pdf.pdf
 

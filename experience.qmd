@@ -22,7 +22,7 @@ title: "Experience"
 +===========================+===========================================================+=========================================+
 | Rule of 53 Analysis       | Play calling strategy for UCLA football coaches           | <a href="ro53pdf.pdf">Slides</a>        |
 +---------------------------+-----------------------------------------------------------+-----------------------------------------+
-| Stats 101B Project        | Predictive analysis of obesity                            | <a href="stats101bpdf.pdf">Write-up</a> |
+| Stats 101C Project        | Predictive analysis of obesity                            | <a href="stats101cpdf.pdf">Write-up</a> |
 +---------------------------+-----------------------------------------------------------+-----------------------------------------+
 | Math 156 Paper            | Predictive analysis of NBA team win percentage            | <a href="math156pdf.pdf">Paper</a>      |
 +---------------------------+-----------------------------------------------------------+-----------------------------------------+

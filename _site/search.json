@@ -1,16 +1,30 @@
 [
   {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Title\nCompany\nDate\n\n\n\n\nSummer Associate\nBoston Consulting Group\nSummer 2024\n\n\nConsulting Intern\nDeloitte US\nSummer 2023, Summer 2022\n\n\nData Science Consultant\nUCLA Football & Bruin Sports Analytics\nOctober 2023 - Present"
+  },
+  {
+    "objectID": "experience.html#work",
+    "href": "experience.html#work",
+    "title": "Experience",
+    "section": "",
+    "text": "Title\nCompany\nDate\n\n\n\n\nSummer Associate\nBoston Consulting Group\nSummer 2024\n\n\nConsulting Intern\nDeloitte US\nSummer 2023, Summer 2022\n\n\nData Science Consultant\nUCLA Football & Bruin Sports Analytics\nOctober 2023 - Present"
+  },
+  {
+    "objectID": "experience.html#projects",
+    "href": "experience.html#projects",
+    "title": "Experience",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\n\n\n\nTitle\nDescription\nDeliverable\n\n\n\n\nRule of 53 Analysis\nPlay calling strategy for UCLA football coaches\nSlides\n\n\nStats 101B Project\nPredictive analysis of obesity\nWrite-up\n\n\nMath 156 Paper\nPredictive analysis of NBA team win percentage\nPaper"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Chinmay Varshneya",
     "section": "",
     "text": "I am a fourth year undergraduate student at UCLA double majoring in Applied Mathematics and Statistics & Data Science"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

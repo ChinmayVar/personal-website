@@ -2,6 +2,9 @@ project:
   type: website
   resources:
     - stats140cv.pdf
+    - stats101cpdf.df
+    - ro53pdf.pdf
+    - math150pdf.pdf
 
 website:
   title: "Chinmay's Website"
@@ -9,8 +12,8 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: projects.qmd
-        text: Projects
+      - href: experience.qmd
+        text: Experience
 
 format:
   html:
